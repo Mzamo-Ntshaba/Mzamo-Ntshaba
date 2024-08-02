@@ -13,12 +13,6 @@ I specialize in translating complex requirements into elegant and functional web
 - **Tailwind CSS**: Accelerating development with a utility-first approach for rapid styling and customization.
 - **Python**: Basic programming knowledge for backend development and data manipulation.
 
-### My Services
-
-- **Responsive Web Design**: Crafting visually stunning and highly responsive web designs for an optimal user experience.
-- **HTML & CSS Mastery**: Building clean, accessible, and SEO-optimized web pages.
-- **Tailwind CSS Integration**: Enhancing development efficiency with a utility-first approach to styling.
-
 ### Contact
 
 - **Email**: [mzamontshaba14@gmail.com](mailto:mzamontshaba14@gmail.com)
