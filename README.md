@@ -17,7 +17,6 @@ I specialize in translating complex requirements into elegant and functional web
 
 - **Email**: [mzamontshaba14@gmail.com](mailto:mzamontshaba14@gmail.com)
 - **LinkedIn**: https://www.linkedin.com/in/mzamo-ntshaba-1466b7299/
-- **GitHub**: [Mzamo-Ntshaba](https://github.com/Mzamo-Ntshaba)
 
 ### Let's Connect
 
