@@ -1,6 +1,6 @@
 # Hi there, I'm Mzamo Ntshaba 👋
 
-Welcome to my GitHub profile! I'm a passionate and dedicated Front-End Developer, currently honing my skills and expanding my expertise in web development and software engineering. My journey is driven by a love for solving complex problems and a commitment to creating systems that make everyday life easier through automation and innovation.
+Welcome to my GitHub profile! I'm a passionate and dedicated Cloud Data Engineer, currently honing my skills and expanding my expertise in web development and data engineering. My journey is driven by a love for solving complex problems and a commitment to creating systems that make everyday life easier through automation and innovation.
 
 ## About Me
 
