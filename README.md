@@ -4,12 +4,13 @@ Welcome to my GitHub profile! I'm a passionate and dedicated Cloud Data Engineer
 
 ## About Me
 
-I specialize in building robust data pipelines that transform raw data into actionable insights, enabling businesses to make well-informed decisions and optimize their operations. Additionally, I can translate complex requirements into elegant and functional web interfaces. My skills in HTML, CSS, and Tailwind CSS allow me to build aesthetically pleasing and highly responsive web applications that enhance user interaction and experience. I am committed to staying at the forefront of industry advancements to deliver innovative solutions that meet and exceed expectations.
+I specialize in building robust data pipelines that transform raw data into actionable insights, enabling businesses to make well-informed decisions and optimize their operations. Additionally, I can translate complex requirements into elegant and functional web interfaces. My skills in HTML,JavaScript, CSS, and Tailwind CSS allow me to build aesthetically pleasing and highly responsive web applications that enhance user interaction and experience. I am committed to staying at the forefront of industry advancements to deliver innovative solutions that meet and exceed expectations.
 
 ### Skills
 
 - **HTML & CSS**: Building clean, semantic, and well-structured web pages.
 - **Responsive Web Design**: Ensuring seamless user experiences across all devices.
+- **JavaScript**: Developing dynamic web applications with a focus on functionality and user experience
 - **Tailwind CSS**: Accelerating development with a utility-first approach for rapid styling and customization.
 - **Python**: Basic programming knowledge for backend development and data manipulation.
 - **SQL**: Proficient in designing and querying relational databases to extract, manipulate, and analyze data.
